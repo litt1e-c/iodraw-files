@@ -22,11 +22,14 @@
         <mxCell id="fK-fRKIj8o0HnS_Lbo4w-6" value="Query Node&lt;div&gt;&lt;pre style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; outline: none; tab-size: 4; overflow-wrap: normal; overflow: auto; line-height: 1.45; color: rgb(31, 35, 40); text-align: start; margin: 0px !important; padding: 16px 24px !important; background: none !important; border-radius: 0px !important;&quot; tabindex=&quot;0&quot; class=&quot;CodeBlock-module__code--gyjSL&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 14px; tab-size: 4; padding: 0px; margin: 0px; background: rgba(0, 0, 0, 0); border-radius: 6px; word-break: normal; border: 0px; display: inline; overflow: visible; line-height: inherit; overflow-wrap: normal;&quot; class=&quot;&quot;&gt;表达式编译与执行&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="152.5" y="460" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fK-fRKIj8o0HnS_Lbo4w-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fK-fRKIj8o0HnS_Lbo4w-7" target="fK-fRKIj8o0HnS_Lbo4w-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fK-fRKIj8o0HnS_Lbo4w-7" value="&lt;div&gt;1. Plan Parsing (PlanProto.cpp)&lt;/div&gt;&lt;div&gt;ParseExprs() → 解析 Protobuf 表达式&lt;/div&gt;&lt;div&gt;支持: UnaryRangeExpr, BinaryExpr, TermExpr,&lt;/div&gt;&lt;div&gt;CompareExpr, ExistsExpr, MatchExpr 等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="282.5" y="460" width="206" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fK-fRKIj8o0HnS_Lbo4w-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="283" y="610" width="207" height="100" as="geometry" />
+          <mxGeometry x="281.5" y="610" width="207" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
