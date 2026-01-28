@@ -19,8 +19,11 @@
         <mxCell id="fK-fRKIj8o0HnS_Lbo4w-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="35" y="450" width="590" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="fK-fRKIj8o0HnS_Lbo4w-6" value="Query Node" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="fK-fRKIj8o0HnS_Lbo4w-6" value="Query Node&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="35" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fK-fRKIj8o0HnS_Lbo4w-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="525" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
