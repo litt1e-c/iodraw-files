@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="iMAcYz2yiUkj1zCRppzf-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="iMAcYz2yiUkj1zCRppzf-2" value="growing&lt;div&gt;&lt;pre style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; outline: none; tab-size: 4; overflow-wrap: normal; overflow: auto; line-height: 1.45; color: rgb(31, 35, 40); text-align: start; margin: 0px !important; padding: 16px 24px !important; background: none !important; border-radius: 0px !important;&quot; tabindex=&quot;0&quot; class=&quot;CodeBlock-module__code--gyjSL&quot;&gt;&lt;code style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 14px; tab-size: 4; padding: 0px; margin: 0px; background: rgba(0, 0, 0, 0); border-radius: 6px; word-break: normal; border: 0px; display: inline; overflow: visible; line-height: inherit; overflow-wrap: normal;&quot; class=&quot;&quot;&gt;(内存中，接收新数据)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="220" width="180" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
