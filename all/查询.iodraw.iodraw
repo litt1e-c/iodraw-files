@@ -28,11 +28,14 @@
         <mxCell id="fK-fRKIj8o0HnS_Lbo4w-7" value="&lt;div&gt;1. Plan Parsing (PlanProto.cpp)&lt;/div&gt;&lt;div&gt;ParseExprs() → 解析 Protobuf 表达式&lt;/div&gt;&lt;div&gt;支持: UnaryRangeExpr, BinaryExpr, TermExpr,&lt;/div&gt;&lt;div&gt;CompareExpr, ExistsExpr, MatchExpr 等&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="282.5" y="460" width="206" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="fK-fRKIj8o0HnS_Lbo4w-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fK-fRKIj8o0HnS_Lbo4w-8" target="fK-fRKIj8o0HnS_Lbo4w-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fK-fRKIj8o0HnS_Lbo4w-8" value="&lt;div&gt;2. Expression Compilation (Expr.cpp)&lt;/div&gt;&lt;div&gt;CompileExpression() → 编译为物理执行计划&lt;/div&gt;&lt;div&gt;生成: PhyTermFilterExpr, PhyUnaryRangeFilterExpr,&lt;/div&gt;&lt;div&gt;PhyExistsFilterExpr, PhyCompareFilterExpr&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="281.5" y="610" width="207" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fK-fRKIj8o0HnS_Lbo4w-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="282" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="282" y="760" width="208" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
