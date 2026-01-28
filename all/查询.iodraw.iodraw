@@ -25,6 +25,9 @@
         <mxCell id="iMAcYz2yiUkj1zCRppzf-8" value="&lt;pre class=&quot;CodeBlock-module__code--gyjSL&quot; tabindex=&quot;0&quot; style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 13.6px; margin: 0px !important; outline: none; tab-size: 4; overflow-wrap: normal; padding: 16px 24px !important; overflow: auto; line-height: 1.45; color: rgb(31, 35, 40); background: none !important; border-radius: 0px !important; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;code class=&quot;&quot; style=&quot;box-sizing: border-box; font-family: &amp;quot;Monaspace Neon&amp;quot;, ui-monospace, SFMono-Regular, &amp;quot;SF Mono&amp;quot;, Menlo, Consolas, &amp;quot;Liberation Mono&amp;quot;, monospace; font-size: 14px; tab-size: 4; padding: 0px; margin: 0px; white-space: pre; background: rgba(0, 0, 0, 0); border-radius: 6px; word-break: normal; border: 0px; display: inline; overflow: visible; line-height: inherit; overflow-wrap: normal;&quot;&gt;Flush (写入 S3)&lt;/code&gt;&lt;/pre&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="450" width="190" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="iMAcYz2yiUkj1zCRppzf-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="650" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
