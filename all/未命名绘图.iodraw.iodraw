@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="lzuDiQkYaDRO7ecvf_s1-1" value="配置与控制模块&lt;div&gt;[全局随机种子(Seed)]&amp;nbsp; [混沌测试概率(Chaos Rate)][动态操作比例(Dynamic Ops)]&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lzuDiQkYaDRO7ecvf_s1-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;配置与控制模块&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;[全局随机种子] [动态操作比例(Dynamic Ops)]等&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="140" width="280" height="140" as="geometry" />
         </mxCell>
       </root>
