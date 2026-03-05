@@ -37,7 +37,7 @@
         <mxCell id="lzuDiQkYaDRO7ecvf_s1-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;缺陷归类与日志收集&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="900" width="130" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="lzuDiQkYaDRO7ecvf_s1-13" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 13px; white-space-collapse: preserve;&quot;&gt;&lt;font face=&quot;monospace&quot; color=&quot;#d4d4d4&quot;&gt;最小化复现路径生成&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="lzuDiQkYaDRO7ecvf_s1-13" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="900" width="130" height="75" as="geometry" />
         </mxCell>
       </root>
